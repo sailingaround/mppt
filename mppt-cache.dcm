@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM78L33
+D Positive 100mA 30V Linear Regulator, Fixed Output 3V3, 
+K Voltage Regulator 100mA Positive
+F http://www.farnell.com/datasheets/1897877.pdf
+$ENDCMP
+#
+#End Doc Library

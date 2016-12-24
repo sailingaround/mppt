@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_Shunt
+D Shunt Resistor
+K r res shunt resistor
+$ENDCMP
+#
+$CMP SN65HVD12DR
+D rs485 transceiver
+K rs485
+F http://www.ti.com/lit/ds/symlink/sn65hvd12.pdf
+$ENDCMP
+#
+$CMP lm2575
+D simple switcher switching buck regulator
+K switcher buck power regulator
+F ww1.microchip.com/downloads/en/DeviceDoc/lm2575.pdf
+$ENDCMP
+#
+#End Doc Library
