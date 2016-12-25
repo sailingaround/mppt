@@ -8,7 +8,13 @@ $ENDCMP
 $CMP SN65HVD12DR
 D rs485 transceiver
 K rs485
-F http://www.ti.com/lit/ds/symlink/sn65hvd12.pdf
+F http://www.farnell.com/datasheets/1946109.pdf
+$ENDCMP
+#
+$CMP ST3485ECDR
+D rs485 transceiver
+K rs485
+F http://www.farnell.com/datasheets/1946109.pdf
 $ENDCMP
 #
 $CMP lm2575
