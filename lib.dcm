@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX485
+D rs485 transceiver
+K rs485
+F http://www.farnell.com/datasheets/1946109.pdf
+$ENDCMP
+#
 $CMP R_Shunt
 D Shunt Resistor
 K r res shunt resistor
